@@ -1,0 +1,4 @@
+Nombre: Mario, DNI:73319234, Edad: 26
+Nombre: Diego, DNI:12345678, Edad: 19
+Nombre: David, DNI:10231762, Edad: 44
+Nombre: Jose, DNI:73131313, Edad: 35

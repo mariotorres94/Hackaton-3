@@ -1,0 +1,2 @@
+Nombre: Miguel, Nota Maxima: 17.0, Nota Minima: 12.0, Promedio: 15.0
+Nombre: Johan, Nota Maxima: 16.0, Nota Minima: 12.0, Promedio: 14.0
